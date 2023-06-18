@@ -2,7 +2,7 @@
 
 <h1>React Library를 이용한 개인 프로젝트입니다.</h1>
 
-![1 Home(https://github.com/selloriwoo/Quiz-React/assets/39435633/c8e5c9b2-09aa-4dcd-8723-ff89f986f8f9)
+![1 Home](https://github.com/selloriwoo/Quiz-React/assets/39435633/c8e5c9b2-09aa-4dcd-8723-ff89f986f8f9)
 
 <h3>본 프로젝트는 https://github.com/selloriwoo/Quiz-Spring 의 서버를 연동한 것입니다. </h3>
 1. **Package**<br />

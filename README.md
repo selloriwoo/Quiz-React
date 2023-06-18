@@ -31,6 +31,6 @@
    ## 퀴즈 결과 ##
    
    ![3 Result](https://github.com/selloriwoo/Quiz-React/assets/39435633/348cfd52-ad46-44da-9c14-ffd5d54692da)
-   +총 맞춘 문제 갯수를 넘겨 받아서 화면에 보여준다.
+   + 총 맞춘 문제 갯수를 넘겨 받아서 화면에 보여준다.
 
 </details>
